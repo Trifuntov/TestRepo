@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         view.backgroundColor = .blue
         // коммент
         // коммент 3
+        // еще текст
     }
 
 
