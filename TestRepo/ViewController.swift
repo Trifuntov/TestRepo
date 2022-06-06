@@ -25,6 +25,8 @@ class ViewController: UIViewController {
     }
     
     // описание
+    
+    // добавил
 }
 
 // тоже добавил описание
