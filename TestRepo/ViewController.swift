@@ -15,8 +15,6 @@ class ViewController: UIViewController {
         // коммент
         // коммент 3
         // еще текст
+        // коммент 4
     }
-
-
 }
-
