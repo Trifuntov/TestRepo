@@ -27,6 +27,8 @@ class ViewController: UIViewController {
     // описание
     
     // добавил
+    
+    func test2() {}
 }
 
 // тоже добавил описание
