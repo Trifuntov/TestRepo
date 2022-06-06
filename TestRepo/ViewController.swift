@@ -17,4 +17,6 @@ class ViewController: UIViewController {
         // еще текст
         // коммент 4
     }
+
+    func test() {}
 }
