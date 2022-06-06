@@ -28,7 +28,13 @@ class ViewController: UIViewController {
     
     // добавил
     
-    func test2() {}
+    func test3() {
+        // поправил
+    }
+
+    func test2() {
+        print()
+    }
 }
 
 // тоже добавил описание
