@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         // коммент 4
         
         // lj,fdbk
+        
+        // двазик
     }
 
     func test1() {}
